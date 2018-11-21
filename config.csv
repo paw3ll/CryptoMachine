@@ -1,0 +1,2 @@
+InputFile,OutputFile,GlobalURL,TickerURL
+,CryptoPrices.CSV,https://api.coinmarketcap.com/v1/global/,https://api.coinmarketcap.com/v1/ticker/

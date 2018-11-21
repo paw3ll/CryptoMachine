@@ -1,0 +1,21 @@
+TODO:
+Exchange Rate between curencies
+Create CSV from function and save into current dir
+Create way to log files in an according file structure
+Create OOP oriented design:
+	First Object: Confguration object that comes from CSV
+	Second Object: Data
+	Third Object: Final data saved to csv
+Read from CSV and output data to user
+Summaries() in R
+Using API Key instead of hard coded variables
+Option to rerun multiple times to pull data again and again
+Improve decider() method (POSSIBLY OOP CHANCE?, OJECT CLASS IDK) to be used for other questions
+
+
+Goal:
+Need a spreadsheet with a list of every single coin and the corresponding exchange rate between the two coins as well as the products greater than one (arbitrage) 
+
+Outstanding Issues:
+Fix globalURL variable issue with where the variable is being overwritten inside of the controller.py
+(?) Change global declerations to a more, non-messy implementatoin 
