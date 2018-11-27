@@ -13,8 +13,7 @@ What do you benefit of the proposed project?
   * The topics covered -finance, shortest paths algorithms, reinforcement learning -provide us with an opportunity to use Python to implement the ideas using probability theory and calculus,  essential for data science and data analysis.
   * Shortest path algorithms used in conjunction with understanding of cryptocurrency market / foreign exchange market can potentially offer monetary gains → efficiently detecting negative cycles in graphs is a multi-billion dollar business.
   
- Project Description:
- * Objective of proposed project
+ Project Description:Objective of proposed project
   * Increase understanding of shortest path algorithms, finance markets, abstract theory, calculus, python and application creation. 
  * Project Explanation:
    * Data Source. 
